@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hello there, I'm  Mohamed Baltamr👋
 
 I am a passionate **Software Developer and Machine Learning Enthusiast** dedicated to mastering data science and AI. I bridge the gap between core mathematical theories and programmatic applications, focusing on writing clean, optimized, and scalable code.
 

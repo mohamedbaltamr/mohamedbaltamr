@@ -23,7 +23,6 @@ I am a passionate Software Developer and Machine Learning Enthusiast dedicated t
 ### 📊 Account Overview & Quick Links
 
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=mohamedbaltamr&label=Profile+Views&color=blue&style=flat" alt="Views Counter" />
   <br><br>
   <a href="https://github.com/mohamedbaltamr?tab=repositories">
     <img src="https://img.shields.io/badge/Browse-My_Repositories-181717?style=flat&logo=github" alt="Repositories" />

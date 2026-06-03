@@ -20,9 +20,17 @@ I am a passionate Software Developer and Machine Learning Enthusiast dedicated t
 
 ---
 
-#### 📊 GitHub Activity
+### 📊 Account Overview & Quick Links
+
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=mohamedbaltamr&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://komarev.com/ghvc/?username=mohamedbaltamr&label=Profile+Views&color=blue&style=flat" alt="Views Counter" />
+  <br><br>
+  <a href="https://github.com/mohamedbaltamr?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse-My_Repositories-181717?style=flat&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://github.com/mohamedbaltamr">
+    <img src="https://img.shields.io/github/followers/mohamedbaltamr?label=Follow&style=social" alt="Followers" />
+  </a>
 </p>
 
 ---

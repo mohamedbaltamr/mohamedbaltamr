@@ -14,9 +14,9 @@ I am a passionate **Software Developer and Machine Learning Enthusiast** dedicat
 
 ---
 
-### 📊 GitHub Activity
+#### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbaltamr&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedbaltamr&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="150" />
 </p>
 
 ---

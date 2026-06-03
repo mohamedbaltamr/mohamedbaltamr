@@ -20,10 +20,9 @@ I am a passionate Software Developer and Machine Learning Enthusiast dedicated t
 
 ---
 
-### 📊 Account Overview & Quick Links
+### 📊 Account Overview 
 
 <p align="left">
-  <br><br>
   <a href="https://github.com/mohamedbaltamr?tab=repositories">
     <img src="https://img.shields.io/badge/Browse-My_Repositories-181717?style=flat&logo=github" alt="Repositories" />
   </a>
